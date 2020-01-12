@@ -1,3 +1,8 @@
+# VIBECO:
+we need this repo to remember to track upstream changes from time to time
+this repo is not used by us anymore, the code is copy-pasted and refactored, 
+but we still want to monitor critical issues in the upstream
+
 # pbf
 
 [![build status](https://secure.travis-ci.org/mapbox/pbf.svg)](http://travis-ci.org/mapbox/pbf) [![Coverage Status](https://coveralls.io/repos/mapbox/pbf/badge.svg)](https://coveralls.io/r/mapbox/pbf)
